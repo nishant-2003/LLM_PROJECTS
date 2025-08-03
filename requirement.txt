@@ -1,0 +1,8 @@
+langchain-huggingface
+huggingface
+transformers
+huggingface-hub
+langchain
+dotenv
+
+google-generativeai
